@@ -7,7 +7,7 @@ Hi 👋, I'm Amanuel.<br>I'm a Software Engineering Student in Addis Ababa, Ethi
 
 ### 📊 GitHub Contributions
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amanuelberhane&theme=github)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AmanuelBerhane&theme=github)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AmanuelBerhane&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
