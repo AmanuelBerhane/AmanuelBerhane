@@ -1,5 +1,5 @@
 # About Me:
-Hi 👋, I'm Amanuel.<br>I'm a Software Engineering Student in Addis Ababa, Ethiopia.
+Hi 👋, I'm Amanuel.<br>I'm a Software Engineering Student in Addis Ababa, Ethiopia.<br> Road to FAANG.<br> FULL STSCK ENGINEER.
 
 
 # 💻 Tech Stack:
