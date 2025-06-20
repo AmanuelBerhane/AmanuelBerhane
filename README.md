@@ -74,7 +74,7 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=AmanuelBerhane&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanuelBerhane&hide_border=true&layout=compact" align="right" /></div>  
  
