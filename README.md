@@ -1,7 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">Hi I'm Amanuel</div>  
   
@@ -9,7 +5,7 @@
 - 👨‍💻 I'm working as a full-stack developer   
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: A proud Coffee Addict
   
 
 <br/>  
@@ -83,21 +79,20 @@
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanuelBerhane&hide_border=true&layout=compact" align="right" /></div>  
  
 
+
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=AmanuelBerhane&&style=flat-square" align="center" />
+</div>  
+
 <br/>  
 
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=AmanuelBerhane&&style=flat-square" align="center" />
-</div>  
-  
-
 <br/>  
 
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
