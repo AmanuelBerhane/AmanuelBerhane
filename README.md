@@ -87,7 +87,7 @@
 </div>  
 
 <br/>  
-
+<div align ="center">![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AmanuelBerhane&layout=compact&theme=radical)</div>
 <br/>  
 
 <br/>  
