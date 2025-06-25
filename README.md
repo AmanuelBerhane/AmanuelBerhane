@@ -85,13 +85,13 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AmanuelBerhane&&style=flat-square" align="center" />
 </div>  
-
-<br/>  
-<div align ="center">![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AmanuelBerhane&layout=compact&theme=radical)</div>
-<br/>  
+ 
 
 <br/>  
 
 
 <br />
+
+<div [![WakaTime Stats](https://wakatime.com/badge/user/AmanuelBerhane.svg)](https://wakatime.com/@AmanuelBerhane)</div>
+<br/> 
 
